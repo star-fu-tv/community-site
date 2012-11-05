@@ -1,4 +1,4 @@
 community-site
 ==============
 
-Community site in Drpal
+Community site in Drupal
